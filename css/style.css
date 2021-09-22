@@ -1,0 +1,43 @@
+*{
+    margin:0;
+}
+html{
+    height: 150%;
+    background-color: aliceblue;
+}
+
+.wrapper {
+    box-sizing: 60px;
+    padding-top: 65px;
+    padding-left: 8px;
+}
+
+nav{
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: aqua;
+    color: indianred;
+    box-sizing: border-box;
+    padding: 20px 8px;
+}
+
+
+h1{
+    margin-left: 435px;
+}
+
+h2,h3,h4,h5,h6,p{
+    margin-bottom: 16px;
+}
+
+a{
+    color: white;
+    text-decoration: none;
+    margin-right: 15px;
+}
+ .img-pup{
+     width: 100%
+
+}
